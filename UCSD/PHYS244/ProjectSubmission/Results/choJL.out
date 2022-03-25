@@ -1,0 +1,45 @@
+Total runtime for sequential Cholesky procedure by row of size 128 is: 
+  425.150 μs (4 allocations: 128.44 KiB)
+Total runtime for sequential Cholesky procedure by col of size 128 is: 
+  287.251 μs (4 allocations: 128.44 KiB)
+Total runtime for sequential Cholesky with simd fastmath procedure of size 128 is: 
+  93.686 μs (4 allocations: 128.44 KiB)
+Total runtime for threaded Cholesky procedure of size 128 is: 
+  47.969 s (2194535 allocations: 121.64 MiB)
+
+Total runtime for sequential Cholesky procedure by row of size 256 is: 
+  4.195 ms (4 allocations: 512.44 KiB)
+Total runtime for sequential Cholesky procedure by col of size 256 is: 
+  2.356 ms (4 allocations: 512.44 KiB)
+Total runtime for sequential Cholesky with simd fastmath procedure of size 256 is: 
+  505.401 μs (4 allocations: 512.44 KiB)
+Total runtime for threaded Cholesky procedure of size 256 is: 
+  155.741 s (12946861 allocations: 548.70 MiB)
+
+Total runtime for sequential Cholesky procedure by row of size 512 is: 
+  145.705 ms (4 allocations: 2.00 MiB)
+Total runtime for sequential Cholesky procedure by col of size 512 is: 
+  20.044 ms (4 allocations: 2.00 MiB)
+Total runtime for sequential Cholesky with simd fastmath procedure of size 512 is: 
+  3.937 ms (4 allocations: 2.00 MiB)
+Total runtime for threaded Cholesky procedure of size 512 is: 
+  464.989 s (85251524 allocations: 2.64 GiB)
+
+Total runtime for sequential Cholesky procedure by row of size 1024 is: 
+  1.216 s (4 allocations: 8.00 MiB)
+Total runtime for sequential Cholesky procedure by col of size 1024 is: 
+  163.861 ms (4 allocations: 8.00 MiB)
+Total runtime for sequential Cholesky with simd fastmath procedure of size 1024 is: 
+  29.347 ms (4 allocations: 8.00 MiB)
+Total runtime for threaded Cholesky procedure of size 1024 is: 
+  15.130 s (609335966 allocations: 14.55 GiB)
+
+Total runtime for sequential Cholesky procedure by row of size 2048 is: 
+  11.717 s (4 allocations: 32.00 MiB)
+Total runtime for sequential Cholesky procedure by col of size 2048 is: 
+  1.649 s (4 allocations: 32.00 MiB)
+Total runtime for sequential Cholesky with simd fastmath procedure of size 2048 is: 
+  535.131 ms (4 allocations: 32.00 MiB)
+Total runtime for threaded Cholesky procedure of size 2048 is: 
+  107.511 s (4584442285 allocations: 90.17 GiB)
+

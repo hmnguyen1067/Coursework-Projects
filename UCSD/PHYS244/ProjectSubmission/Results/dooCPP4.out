@@ -1,0 +1,28 @@
+Total runtime for the Doolittle sequential algorithm of size 128 is: 2 milliseconds
+Total runtime for the Doolittle static OMP algorithm of size 128 is: 2 milliseconds
+Total runtime for the Doolittle dynamic OMP algorithm of size 128 is: 2 milliseconds
+
+Total runtime for the Doolittle sequential algorithm of size 256 is: 18 milliseconds
+Total runtime for the Doolittle static OMP algorithm of size 256 is: 9 milliseconds
+Total runtime for the Doolittle dynamic OMP algorithm of size 256 is: 9 milliseconds
+
+Total runtime for the Doolittle sequential algorithm of size 512 is: 152 milliseconds
+Total runtime for the Doolittle static OMP algorithm of size 512 is: 53 milliseconds
+Total runtime for the Doolittle dynamic OMP algorithm of size 512 is: 54 milliseconds
+
+Total runtime for the Doolittle sequential algorithm of size 1024 is: 1226 milliseconds
+Total runtime for the Doolittle static OMP algorithm of size 1024 is: 378 milliseconds
+Total runtime for the Doolittle dynamic OMP algorithm of size 1024 is: 381 milliseconds
+
+Total runtime for the Doolittle sequential algorithm of size 2048 is: 11856 milliseconds
+Total runtime for the Doolittle static OMP algorithm of size 2048 is: 3229 milliseconds
+Total runtime for the Doolittle dynamic OMP algorithm of size 2048 is: 3229 milliseconds
+
+Total runtime for the Doolittle sequential algorithm of size 4096 is: 124834 milliseconds
+Total runtime for the Doolittle static OMP algorithm of size 4096 is: 39904 milliseconds
+Total runtime for the Doolittle dynamic OMP algorithm of size 4096 is: 38728 milliseconds
+
+Total runtime for the Doolittle sequential algorithm of size 8192 is: 1295989 milliseconds
+Total runtime for the Doolittle static OMP algorithm of size 8192 is: 552738 milliseconds
+Total runtime for the Doolittle dynamic OMP algorithm of size 8192 is: 416778 milliseconds
+

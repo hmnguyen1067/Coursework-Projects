@@ -1,0 +1,28 @@
+Total runtime for the Cholesky sequential algorithm of size 128 is: 1 milliseconds
+Total runtime for the Cholesky static OMP algorithm of size 128 is: 1 milliseconds
+Total runtime for the Cholesky dynamic OMP algorithm of size 128 is: 1 milliseconds
+
+Total runtime for the Cholesky sequential algorithm of size 256 is: 9 milliseconds
+Total runtime for the Cholesky static OMP algorithm of size 256 is: 4 milliseconds
+Total runtime for the Cholesky dynamic OMP algorithm of size 256 is: 5 milliseconds
+
+Total runtime for the Cholesky sequential algorithm of size 512 is: 75 milliseconds
+Total runtime for the Cholesky static OMP algorithm of size 512 is: 24 milliseconds
+Total runtime for the Cholesky dynamic OMP algorithm of size 512 is: 22 milliseconds
+
+Total runtime for the Cholesky sequential algorithm of size 1024 is: 595 milliseconds
+Total runtime for the Cholesky static OMP algorithm of size 1024 is: 149 milliseconds
+Total runtime for the Cholesky dynamic OMP algorithm of size 1024 is: 105 milliseconds
+
+Total runtime for the Cholesky sequential algorithm of size 2048 is: 4790 milliseconds
+Total runtime for the Cholesky static OMP algorithm of size 2048 is: 1131 milliseconds
+Total runtime for the Cholesky dynamic OMP algorithm of size 2048 is: 681 milliseconds
+
+Total runtime for the Cholesky sequential algorithm of size 4096 is: 38797 milliseconds
+Total runtime for the Cholesky static OMP algorithm of size 4096 is: 9000 milliseconds
+Total runtime for the Cholesky dynamic OMP algorithm of size 4096 is: 5168 milliseconds
+
+Total runtime for the Cholesky sequential algorithm of size 8192 is: 308025 milliseconds
+Total runtime for the Cholesky static OMP algorithm of size 8192 is: 71770 milliseconds
+Total runtime for the Cholesky dynamic OMP algorithm of size 8192 is: 40862 milliseconds
+

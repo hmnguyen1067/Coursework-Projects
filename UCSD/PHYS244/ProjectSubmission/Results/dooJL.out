@@ -1,0 +1,35 @@
+Total runtime for sequential Doolittle procedure of size 128 is: 
+  853.803 μs (8 allocations: 256.88 KiB)
+Total runtime for sequential Doolittle with simd fastmath procedure of size 128 is: 
+  841.921 μs (8 allocations: 256.88 KiB)
+Total runtime for threaded Doolittle procedure of size 128 is: 
+  220.653 ms (1344151 allocations: 191.27 MiB)
+
+Total runtime for sequential Doolittle procedure of size 256 is: 
+  6.601 ms (8 allocations: 1.00 MiB)
+Total runtime for sequential Doolittle with simd fastmath procedure of size 256 is: 
+  8.404 ms (8 allocations: 1.00 MiB)
+Total runtime for threaded Doolittle procedure of size 256 is: 
+  27.193 s (5385756 allocations: 765.36 MiB)
+
+Total runtime for sequential Doolittle procedure of size 512 is: 
+  218.174 ms (8 allocations: 4.00 MiB)
+Total runtime for sequential Doolittle with simd fastmath procedure of size 512 is: 
+  283.728 ms (8 allocations: 4.00 MiB)
+Total runtime for threaded Doolittle procedure of size 512 is: 
+  3.454 s (21508016 allocations: 2.99 GiB)
+
+Total runtime for sequential Doolittle procedure of size 1024 is: 
+  1.885 s (8 allocations: 16.00 MiB)
+Total runtime for sequential Doolittle with simd fastmath procedure of size 1024 is: 
+  2.520 s (8 allocations: 16.00 MiB)
+Total runtime for threaded Doolittle procedure of size 1024 is: 
+  75.426 s (86115149 allocations: 11.96 GiB)
+
+Total runtime for sequential Doolittle procedure of size 2048 is: 
+  20.504 s (8 allocations: 64.00 MiB)
+Total runtime for sequential Doolittle with simd fastmath procedure of size 2048 is: 
+  53.260 s (8 allocations: 64.00 MiB)
+Total runtime for threaded Doolittle procedure of size 2048 is: 
+  85.467 s (344389216 allocations: 47.83 GiB)
+
