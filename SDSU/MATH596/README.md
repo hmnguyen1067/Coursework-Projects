@@ -1,4 +1,4 @@
-# Exciability in FitzHugh-Nagumo model and a brief look into its dynamics
+# Excitability in FitzHugh-Nagumo model and a brief look into its dynamics
 
 A final project for class Math 596: Mathematical Physiology @ SDSU on the FitzHugh-Nagumo model. Due to some unfortunate events, the code for this project is no longer available.
 

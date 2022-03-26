@@ -4,8 +4,7 @@ This project is assignment 2 and also the final project of class CSE258: Web Min
 
 ## Motivation
 
-There exist multiple papers predicting the user satisfaction
-However, since the review text might not be available in real time, we would want to predict the user satisfaction before the user uses the drug, not after consuming it.
+There exist multiple papers predicting the user satisfaction using the drug review text. However, since the review text might not be available in real time, we would want to predict the user satisfaction before the user uses the drug, not after consuming it.
 
 ## Installation
 
